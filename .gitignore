@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/
+.pytest_cache/
+reports/assets/
+.DS_Store

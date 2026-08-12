@@ -1,0 +1,116 @@
+# ---------------------------------------------------------------------------
+# Azure Price Guard - single source of configuration.
+#
+# Everything that a finance or QA user might want to change lives here.
+# No code edit is required to switch regions, services, SKUs or thresholds.
+# ---------------------------------------------------------------------------
+
+api:
+  # Public, anonymous Azure Retail Prices API. No credentials, no API key.
+  base_url: "https://prices.azure.com/api/retail/prices"
+  api_version: "2023-01-01-preview"
+  currency: "USD"
+  timeout_seconds: 30
+  max_retries: 3
+  retry_backoff_seconds: 2
+  # Safety valve so a broad filter cannot pull the whole catalogue.
+  max_pages_per_target: 3
+
+# Each target becomes one OData query. Add/remove freely.
+targets:
+  - name: "vm-eastus-general-purpose"
+    service_name: "Virtual Machines"
+    arm_region_name: "eastus"
+    arm_sku_names:
+      - "Standard_D2s_v3"
+      - "Standard_D4s_v3"
+      - "Standard_B2ms"
+  - name: "vm-westeurope-general-purpose"
+    service_name: "Virtual Machines"
+    arm_region_name: "westeurope"
+    arm_sku_names:
+      - "Standard_D2s_v3"
+      - "Standard_D4s_v3"
+  - name: "storage-eastus"
+    service_name: "Storage"
+    arm_region_name: "eastus"
+    arm_sku_names: []          # empty = every SKU of the service in the region
+
+filters:
+  # Only meters of these price types are persisted. Empty list = keep all.
+  price_types:
+    - "Consumption"
+  # Reservation / spot / low-priority noise is excluded by default.
+  exclude_meter_name_contains:
+    - "Low Priority"
+    - "Spot"
+  # The API returns superseded prices (those carrying an effectiveEndDate in
+  # the past) next to the live one for the same meter. Keeping them would
+  # double-count every meter and manufacture drift out of thin air.
+  only_current_prices: true
+
+validation:
+  # A run-over-run relative change above this percentage is reported as DRIFT.
+  drift_threshold_pct: 5.0
+  # Absolute floor so sub-cent meters do not produce noise.
+  drift_min_absolute_usd: 0.0001
+  # UI-vs-API disagreement above this percentage is reported as UI_API_MISMATCH.
+  ui_api_tolerance_pct: 1.0
+
+ui:
+  # Selenium is DISABLED in the public demo (see README). The Page Object,
+  # the locators and the search paths below are the real, production ones.
+  enabled: false
+  driver: "fake"                 # "fake" | "chrome"
+  headless: true
+  base_url: "https://azure.microsoft.com/en-us/pricing/calculator/"
+  implicit_wait_seconds: 5
+  explicit_wait_seconds: 20
+
+  # -------------------------------------------------------------------------
+  # ACCEPTANCE CRITERION #1 - "search bar paths" are data, not code.
+  # A path is an ordered list of steps; every step names a locator declared
+  # under `locators` and an action the Page Object knows how to perform.
+  # Adding a new navigation path = adding YAML, never Python.
+  # -------------------------------------------------------------------------
+  search_paths:
+    - name: "calculator_service_search"
+      description: "Find a service through the pricing calculator search bar."
+      steps:
+        - {action: "wait_visible", locator: "search_input"}
+        - {action: "clear", locator: "search_input"}
+        - {action: "type", locator: "search_input", value: "{service_name}"}
+        - {action: "click", locator: "search_submit"}
+        - {action: "wait_visible", locator: "first_result"}
+        - {action: "click", locator: "first_result"}
+    - name: "calculator_sku_filter"
+      description: "Narrow an already-loaded service card down to one SKU/region."
+      steps:
+        - {action: "wait_visible", locator: "region_select"}
+        - {action: "select", locator: "region_select", value: "{region_display_name}"}
+        - {action: "select", locator: "instance_select", value: "{sku_display_name}"}
+        - {action: "wait_visible", locator: "price_label"}
+
+  locators:
+    search_input:    {by: "css",   value: "input[data-testid='pricing-search-input']"}
+    search_submit:   {by: "css",   value: "button[data-testid='pricing-search-submit']"}
+    first_result:    {by: "css",   value: "[data-testid='search-results'] li:first-child a"}
+    region_select:   {by: "css",   value: "select[data-testid='region-selector']"}
+    instance_select: {by: "css",   value: "select[data-testid='instance-selector']"}
+    price_label:     {by: "css",   value: "[data-testid='estimate-total'] .price"}
+    cookie_accept:   {by: "id",    value: "onetrust-accept-btn-handler"}
+
+  # Which SKUs get cross-checked against the UI on every run.
+  cross_check:
+    - {service_name: "Virtual Machines", arm_region_name: "eastus", arm_sku_name: "Standard_D2s_v3", region_display_name: "East US", sku_display_name: "D2s v3"}
+    - {service_name: "Virtual Machines", arm_region_name: "eastus", arm_sku_name: "Standard_B2ms", region_display_name: "East US", sku_display_name: "B2ms"}
+
+storage:
+  database_path: "data/price_guard.db"
+
+reporting:
+  output_dir: "reports"
+  html_report: "report.html"
+  log_file: "run.log"
+  summary_csv: "summary.csv"
+  findings_csv: "findings.csv"

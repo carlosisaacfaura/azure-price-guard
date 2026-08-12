@@ -1,0 +1,1431 @@
+service_name,arm_sku_name,arm_region_name,meter_name,unit_of_measure,currency_code,previous_price,current_price,delta_pct,is_synthetic,effective_start_date
+Storage,AMLFS-Durable-Premium-125,eastus,Provisioned Capacity,1 GiB/Hour,USD,0.000198,0.000198,0.0,0,2023-07-01T00:00:00Z
+Storage,AMLFS-Durable-Premium-250,eastus,Provisioned Capacity,1 GiB/Hour,USD,0.000287,0.000287,0.0,0,2023-07-01T00:00:00Z
+Storage,AMLFS-Durable-Premium-40,eastus,Provisioned Capacity,1 GiB/Hour,USD,0.000114,0.000114,0.0,0,2023-07-01T00:00:00Z
+Storage,AMLFS-Durable-Premium-500,eastus,Provisioned Capacity,1 GiB/Hour,USD,0.000466,0.000466,0.0,0,2023-07-01T00:00:00Z
+Storage,Account Encrypted GRS,eastus,Account Encrypted Delete Operations,10K,USD,0.0,0.0,,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GRS,eastus,Account Encrypted GRS Batch Write Operations,10K,USD,0.15,0.15,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GRS,eastus,Account Encrypted GRS Write Operations,10K,USD,0.05,0.05,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GRS,eastus,Account Encrypted List Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GRS,eastus,Account Encrypted Read Operations,10K,USD,0.005,0.005,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GRS,eastus,Account Encrypted Scan Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GZRS,eastus,Account Encrypted Delete Operations,10K,USD,0.0,0.0,,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GZRS,eastus,Account Encrypted GZRS Batch Write Operations,10K,USD,0.1725,0.1725,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GZRS,eastus,Account Encrypted GZRS Data Stored,1 GB/Month,USD,0.1116,0.1116,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GZRS,eastus,Account Encrypted GZRS Write Operations,10K,USD,0.0575,0.0575,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GZRS,eastus,Account Encrypted List Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GZRS,eastus,Account Encrypted Read Operations,10K,USD,0.005,0.005,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted GZRS,eastus,Account Encrypted Scan Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted LRS,eastus,Account Encrypted Batch Write Operations,10K,USD,0.075,0.075,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted LRS,eastus,Account Encrypted Delete Operations,10K,USD,0.0,0.0,,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted LRS,eastus,Account Encrypted List Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted LRS,eastus,Account Encrypted Read Operations,10K,USD,0.005,0.005,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted LRS,eastus,Account Encrypted Scan Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted LRS,eastus,Account Encrypted Write Operations,10K,USD,0.025,0.025,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.045,0.045,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GRS,eastus,Account Encrypted Delete Operations,10K,USD,0.0,0.0,,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GRS,eastus,Account Encrypted GRS Batch Write Operations,10K,USD,0.15,0.15,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GRS,eastus,Account Encrypted GRS Write Operations,10K,USD,0.05,0.05,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GRS,eastus,Account Encrypted List Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GRS,eastus,Account Encrypted Read Operations,10K,USD,0.005,0.005,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GRS,eastus,Account Encrypted Scan Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.1125,0.1125,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GZRS,eastus,Account Encrypted Delete Operations,10K,USD,0.0,0.0,,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GZRS,eastus,Account Encrypted List Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GZRS,eastus,Account Encrypted RA-GZRS Batch Write Operations,10K,USD,0.1725,0.1725,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GZRS,eastus,Account Encrypted RA-GZRS Data Stored,1 GB/Month,USD,0.1395,0.1395,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GZRS,eastus,Account Encrypted RA-GZRS Write Operations,10K,USD,0.0575,0.0575,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GZRS,eastus,Account Encrypted Read Operations,10K,USD,0.005,0.005,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted RA-GZRS,eastus,Account Encrypted Scan Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted ZRS,eastus,Account Encrypted Batch Write Operations,10K,USD,0.075,0.075,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted ZRS,eastus,Account Encrypted Delete Operations,10K,USD,0.0,0.0,,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted ZRS,eastus,Account Encrypted List Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted ZRS,eastus,Account Encrypted Read Operations,10K,USD,0.005,0.005,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted ZRS,eastus,Account Encrypted Scan Operations,10K,USD,0.09,0.09,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted ZRS,eastus,Account Encrypted Write Operations,10K,USD,0.025,0.025,0.0,0,2021-03-01T00:00:00Z
+Storage,Account Encrypted ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.05625,0.05625,0.0,0,2021-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2019-10-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2019-10-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Data Write,1 GB,USD,0.0,0.0,,0,2018-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2019-09-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2019-06-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2019-09-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2020-11-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2019-06-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2021-10-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2020-02-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2020-02-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Priority Read Operations,10K,USD,65.0,65.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Read Operations,10K,USD,6.5,6.5,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Write Operations,10K,USD,0.21,0.21,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Write Operations,10K,USD,0.21,0.21,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Write Operations,10K,USD,0.273,0.273,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive GRS Write Operations,10K,USD,0.273,0.273,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2020-06-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Priority Read Operations,10K,USD,50.0,50.0,0.0,0,2020-06-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Read Operations,10K,USD,5.0,5.0,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Read Operations,10K,USD,6.5,6.5,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive GRS,eastus,Archive Read Operations,10K,USD,5.0,5.0,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive GRS,eastus,GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2021-02-01T00:00:00Z
+Storage,Archive GRS,eastus,Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive GRS,eastus,Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive GRS,eastus,Priority Read Operations,10K,USD,65.0,65.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive GRS,eastus,Priority Read Operations,10K,USD,50.0,50.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2019-10-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2019-10-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Data Write,1 GB,USD,0.0,0.0,,0,2026-04-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Data Write,1 GB,USD,0.0,0.0,,0,2018-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Data Stored,1 GB/Month,USD,0.00099,0.00099,0.0,0,2019-09-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Data Stored,1 GB/Month,USD,0.00099,0.00099,0.0,0,2019-09-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Data Stored,1 GB/Month,USD,0.00099,0.00099,0.0,0,2019-06-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Data Stored,1 GB/Month,USD,0.00099,0.00099,0.0,0,2020-11-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Early Delete,1 GB,USD,0.00099,0.00099,0.0,0,2020-02-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Early Delete,1 GB,USD,0.00099,0.00099,0.0,0,2020-02-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Early Delete,1 GB,USD,0.00099,0.00099,0.0,0,2021-10-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Early Delete,1 GB,USD,0.00099,0.00099,0.0,0,2019-06-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Priority Read Operations,10K,USD,65.0,65.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Read Operations,10K,USD,6.5,6.5,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Write Operations,10K,USD,0.1,0.1,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive LRS Write Operations,10K,USD,0.13,0.13,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2020-06-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Priority Read Operations,10K,USD,50.0,50.0,0.0,0,2020-06-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Read Operations,10K,USD,5.0,5.0,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Read Operations,10K,USD,6.5,6.5,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Read Operations,10K,USD,5.0,5.0,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Write Operations,10K,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive LRS,eastus,Archive Write Operations,10K,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive LRS,eastus,Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2021-02-01T00:00:00Z
+Storage,Archive LRS,eastus,Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive LRS,eastus,Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive LRS,eastus,Priority Read Operations,10K,USD,65.0,65.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive LRS,eastus,Priority Read Operations,10K,USD,50.0,50.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2019-10-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2019-10-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Data Write,1 GB,USD,0.0,0.0,,0,2018-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive GRS Write Operations,10K,USD,0.21,0.21,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive GRS Write Operations,10K,USD,0.21,0.21,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive GRS Write Operations,10K,USD,0.273,0.273,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2020-06-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Priority Read Operations,10K,USD,50.0,50.0,0.0,0,2020-06-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2020-11-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2019-09-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2019-09-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Data Stored,1 GB/Month,USD,0.00299,0.00299,0.0,0,2019-06-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2020-02-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2019-06-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2020-02-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Early Delete,1 GB,USD,0.00299,0.00299,0.0,0,2021-10-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Named Encryption Scopes,1/Month,USD,1.5,1.5,0.0,0,2021-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Priority Read Operations,10K,USD,65.0,65.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Read Operations,10K,USD,6.5,6.5,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive RA-GRS Write Operations,10K,USD,0.273,0.273,0.0,0,2020-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Read Operations,10K,USD,5.0,5.0,0.0,0,2018-03-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Read Operations,10K,USD,6.5,6.5,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Archive Read Operations,10K,USD,5.0,5.0,0.0,0,2019-04-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2021-02-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Priority Data Retrieval,1 GB,USD,0.1,0.1,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Priority Read Operations,10K,USD,50.0,50.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Archive RA-GRS,eastus,Priority Read Operations,10K,USD,65.0,65.0,0.0,0,2022-12-01T00:00:00Z
+Storage,Blob,eastus,Blob Changes,1M,USD,1.0,1.0,0.0,0,2020-10-01T00:00:00Z
+Storage,Burst Enablement LRS,eastus,LRS Burst Enablement,1/Month,USD,24.576,24.576,0.0,0,2021-09-01T00:00:00Z
+Storage,Burst Enablement ZRS,eastus,ZRS Burst Enablement,1/Month,USD,24.576,24.576,0.0,0,2024-09-01T00:00:00Z
+Storage,Burst Transactions LRS,eastus,LRS Burst Transactions,10K/Month,USD,0.005,0.005,0.0,0,2021-09-01T00:00:00Z
+Storage,Burst Transactions ZRS,eastus,ZRS Burst Transactions,10K/Month,USD,0.005,0.005,0.0,0,2024-09-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Blob Inventory,1M,USD,0.025,0.025,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Blob Inventory,1M,USD,0.035,0.035,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Returned for Query Acceleration,1 GB,USD,0.005,0.005,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Scanned for Query Acceleration,1 GB,USD,0.001,0.001,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Stored,1 GB/Month,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Stored,1 GB/Month,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Stored,1 GB/Month,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Stored,1 GB/Month,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Stored,1 GB/Month,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Early Delete,1 GB,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Early Delete,1 GB,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Early Delete,1 GB,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Early Delete,1 GB,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Early Delete,1 GB,USD,0.0081,0.0081,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Write Operations,10K,USD,0.36,0.36,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Write Operations,10K,USD,0.468,0.468,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Write Operations,10K,USD,0.468,0.468,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Write Operations,10K,USD,0.36,0.36,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GRS Write Operations,10K,USD,0.36,0.36,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Blob Inventory,1M,USD,0.025,0.025,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Blob Inventory,1M,USD,0.035,0.035,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Returned for Query Acceleration,1 GB,USD,0.005,0.005,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Scanned for Query Acceleration,1 GB,USD,0.001,0.001,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Stored,1 GB/Month,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Stored,1 GB/Month,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Stored,1 GB/Month,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Stored,1 GB/Month,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Early Delete,1 GB,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Early Delete,1 GB,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Early Delete,1 GB,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Early Delete,1 GB,USD,0.0085,0.0085,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Write Operations,10K,USD,0.38,0.38,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Write Operations,10K,USD,0.494,0.494,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Write Operations,10K,USD,0.38,0.38,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold GZRS Write Operations,10K,USD,0.494,0.494,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Blob Inventory,1M,USD,0.035,0.035,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Blob Inventory,1M,USD,0.025,0.025,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Returned for Query Acceleration,1 GB,USD,0.005,0.005,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Scanned for Query Acceleration,1 GB,USD,0.001,0.001,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Stored,1 GB/Month,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Stored,1 GB/Month,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Stored,1 GB/Month,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Stored,1 GB/Month,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Stored,1 GB/Month,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Early Delete,1 GB,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Early Delete,1 GB,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Early Delete,1 GB,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Early Delete,1 GB,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Early Delete,1 GB,USD,0.0036,0.0036,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Write Operations,10K,USD,0.18,0.18,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Write Operations,10K,USD,0.18,0.18,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Write Operations,10K,USD,0.234,0.234,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Write Operations,10K,USD,0.234,0.234,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold LRS Write Operations,10K,USD,0.18,0.18,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Blob Inventory,1M,USD,0.025,0.025,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Blob Inventory,1M,USD,0.035,0.035,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Returned for Query Acceleration,1 GB,USD,0.005,0.005,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Scanned for Query Acceleration,1 GB,USD,0.001,0.001,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Stored,1 GB/Month,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Stored,1 GB/Month,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Stored,1 GB/Month,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Stored,1 GB/Month,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Stored,1 GB/Month,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Early Delete,1 GB,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Early Delete,1 GB,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Early Delete,1 GB,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Early Delete,1 GB,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Early Delete,1 GB,USD,0.0101,0.0101,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Write Operations,10K,USD,0.468,0.468,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Write Operations,10K,USD,0.468,0.468,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Write Operations,10K,USD,0.36,0.36,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Write Operations,10K,USD,0.36,0.36,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GRS Write Operations,10K,USD,0.36,0.36,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Blob Inventory,1M,USD,0.025,0.025,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Blob Inventory,1M,USD,0.035,0.035,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Returned for Query Acceleration,1 GB,USD,0.005,0.005,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Scanned for Query Acceleration,1 GB,USD,0.001,0.001,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Stored,1 GB/Month,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Stored,1 GB/Month,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Stored,1 GB/Month,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Stored,1 GB/Month,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Early Delete,1 GB,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Early Delete,1 GB,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Early Delete,1 GB,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Early Delete,1 GB,USD,0.0106,0.0106,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Write Operations,10K,USD,0.38,0.38,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Write Operations,10K,USD,0.494,0.494,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Write Operations,10K,USD,0.38,0.38,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold RA-GZRS Write Operations,10K,USD,0.494,0.494,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Blob Inventory,1M,USD,0.035,0.035,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Blob Inventory,1M,USD,0.025,0.025,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Retrieval,1 GB,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Returned for Query Acceleration,1 GB,USD,0.005,0.005,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Scanned for Query Acceleration,1 GB,USD,0.001,0.001,0.0,0,2023-08-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Stored,1 GB/Month,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Stored,1 GB/Month,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Stored,1 GB/Month,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Stored,1 GB/Month,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Data Write,1 GB,USD,0.0,0.0,,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Early Delete,1 GB,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Early Delete,1 GB,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Early Delete,1 GB,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Early Delete,1 GB,USD,0.004,0.004,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Read Operations,10K,USD,0.13,0.13,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Read Operations,10K,USD,0.1,0.1,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Write Operations,10K,USD,0.26,0.26,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Write Operations,10K,USD,0.2,0.2,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Write Operations,10K,USD,0.26,0.26,0.0,0,2023-05-01T00:00:00Z
+Storage,Cold,eastus,Cold ZRS Write Operations,10K,USD,0.2,0.2,0.0,0,2023-05-01T00:00:00Z
+Storage,Confidential Compute Encryption,eastus,Confidential Compute Encryption LRS Provisioned Capacity,1 GiB/Hour,USD,0.000111,0.000111,0.0,0,2025-09-01T00:00:00Z
+Storage,Confidential Compute Encryption,eastus,Confidential Compute Encryption LRS Provisioned Capacity,1 GiB/Hour,USD,8e-06,8e-06,0.0,0,2026-03-01T00:00:00Z
+Storage,Confidential Compute Encryption,eastus,Confidential Compute Encryption LRS Provisioned Capacity,1 GiB/Hour,USD,2.7e-05,2.7e-05,0.0,0,2023-04-01T00:00:00Z
+Storage,Confidential Compute Encryption,eastus,Confidential Compute Encryption LRS Provisioned Capacity,1 GiB/Hour,USD,2.1e-05,2.1e-05,0.0,0,2026-03-01T00:00:00Z
+Storage,Confidential Compute Encryption,eastus,Confidential Compute Encryption ZRS Provisioned Capacity,1 GiB/Hour,USD,3.1e-05,3.1e-05,0.0,0,2026-03-01T00:00:00Z
+Storage,Confidential Compute Encryption,eastus,Confidential Compute Encryption ZRS Provisioned Capacity,1 GiB/Hour,USD,1.5e-05,1.5e-05,0.0,0,2024-01-01T00:00:00Z
+Storage,Confidential Compute Encryption,eastus,Confidential Compute Encryption ZRS Provisioned Capacity,1 GiB/Hour,USD,4.1e-05,4.1e-05,0.0,0,2023-04-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Data Stored,1 GB/Month,USD,0.033,0.033,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Data Stored,1 GB/Month,USD,0.0334,0.0334,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Data Stored,1 GB/Month,USD,0.0334,0.0334,0.0,0,2017-02-03T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Data Stored,1 GB/Month,USD,0.0501,0.0501,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Data Stored,1 GB/Month,USD,0.0334,0.0334,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Data Write,1 GB,USD,0.005,0.005,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Early Delete,1 GB,USD,0.0334,0.0334,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Early Delete,1 GB,USD,0.0334,0.0334,0.0,0,2017-10-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Early Delete,1 GB,USD,0.0334,0.0334,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Early Delete,1 GB,USD,0.02,0.02,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS List Operations,10K,USD,0.13,0.13,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Read Operations,10K,USD,0.013,0.013,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Write Operations,10K,USD,0.26,0.26,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Write Operations,10K,USD,0.2,0.2,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Write Operations,10K,USD,0.26,0.26,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Write Operations,10K,USD,0.2,0.2,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool GRS Write Operations,10K,USD,0.26,0.26,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GRS,eastus,GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2021-02-01T00:00:00Z
+Storage,Cool GRS,eastus,GRS Metadata,1 GB/Month,USD,0.0655,0.0655,0.0,0,2019-07-05T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Data Retrieval,1 GB,USD,0.02,0.02,0.0,0,2020-08-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Data Stored,1 GB/Month,USD,0.0342,0.0342,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Data Stored,1 GB/Month,USD,0.0342,0.0342,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Data Stored,1 GB/Month,USD,0.042,0.042,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Data Stored,1 GB/Month,USD,0.0342,0.0342,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Data Stored,1 GB/Month,USD,0.0513,0.0513,0.0,0,2020-08-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Early Delete,1 GB,USD,0.042,0.042,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS List Operations,10K,USD,0.1528,0.1528,0.0,0,2020-08-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Other Operations,10K,USD,0.01092,0.01092,0.0,0,2020-08-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Read Operations,10K,USD,0.013,0.013,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Write Operations,10K,USD,0.26,0.26,0.0,0,2020-08-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Write Operations,10K,USD,0.4,0.4,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Write Operations,10K,USD,0.2,0.2,0.0,0,2020-04-15T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Write Operations,10K,USD,0.2,0.2,0.0,0,2020-04-15T00:00:00Z
+Storage,Cool GZRS,eastus,Cool GZRS Write Operations,10K,USD,0.26,0.26,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2020-08-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool ZRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool GZRS,eastus,Cool ZRS Read Operations,10K,USD,0.01,0.01,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool GZRS,eastus,GZRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2020-11-30T00:00:00Z
+Storage,Cool GZRS,eastus,GZRS Metadata,1 GB/Month,USD,0.0668,0.0668,0.0,0,2020-08-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Data Stored,1 GB/Month,USD,0.0152,0.0152,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Data Stored,1 GB/Month,USD,0.015,0.015,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Data Stored,1 GB/Month,USD,0.0152,0.0152,0.0,0,2017-02-03T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Data Stored,1 GB/Month,USD,0.0152,0.0152,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Data Stored,1 GB/Month,USD,0.0228,0.0228,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Data Write,1 GB,USD,0.0025,0.0025,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Early Delete,1 GB,USD,0.0152,0.0152,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Early Delete,1 GB,USD,0.0152,0.0152,0.0,0,2017-10-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Early Delete,1 GB,USD,0.0152,0.0152,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Early Delete,1 GB,USD,0.01,0.01,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS List Operations,10K,USD,0.065,0.065,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Read Operations,10K,USD,0.013,0.013,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Write Operations,10K,USD,0.1,0.1,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Write Operations,10K,USD,0.13,0.13,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool LRS Write Operations,10K,USD,0.13,0.13,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Write Operations,10K,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool LRS,eastus,Cool Write Operations,10K,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool LRS,eastus,Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2021-02-01T00:00:00Z
+Storage,Cool LRS,eastus,LRS Metadata,1 GB/Month,USD,0.0297,0.0297,0.0,0,2019-07-05T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool GRS Data Write,1 GB,USD,0.005,0.005,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool GRS Write Operations,10K,USD,0.2,0.2,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool GRS Write Operations,10K,USD,0.26,0.26,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool GRS Write Operations,10K,USD,0.2,0.2,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Data Stored,1 GB/Month,USD,0.0425,0.0425,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Data Stored,1 GB/Month,USD,0.0425,0.0425,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Data Stored,1 GB/Month,USD,0.043,0.043,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Data Stored,1 GB/Month,USD,0.0425,0.0425,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Early Delete,1 GB,USD,0.025,0.025,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Early Delete,1 GB,USD,0.0425,0.0425,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Early Delete,1 GB,USD,0.0425,0.0425,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Early Delete,1 GB,USD,0.0425,0.0425,0.0,0,2017-10-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Named Encryption Scopes,1/Month,USD,1.5,1.5,0.0,0,2021-03-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Read Operations,10K,USD,0.013,0.013,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool RA-GRS Write Operations,10K,USD,0.26,0.26,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2016-11-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GRS,eastus,GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2021-02-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool GZRS Write Operations,10K,USD,0.2,0.2,0.0,0,2020-04-15T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool GZRS Write Operations,10K,USD,0.26,0.26,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Data Stored,1 GB/Month,USD,0.04275,0.04275,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Data Stored,1 GB/Month,USD,0.04275,0.04275,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Data Stored,1 GB/Month,USD,0.04275,0.04275,0.0,0,2020-07-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Data Stored,1 GB/Month,USD,0.034,0.034,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Early Delete,1 GB,USD,0.034,0.034,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Named Encryption Scopes,1/Month,USD,1.5,1.5,0.0,0,2021-03-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool RA-GZRS Read Operations,10K,USD,0.013,0.013,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool ZRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,Cool ZRS Read Operations,10K,USD,0.01,0.01,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool RA-GZRS,eastus,GZRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2020-11-30T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2019-10-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Data Returned for Query Acceleration,1 GB,USD,0.01,0.01,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-06-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Read Operations,10K,USD,0.013,0.013,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool Read Operations,10K,USD,0.01,0.01,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Data Retrieval,1 GB,USD,0.01,0.01,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Data Stored,1 GB/Month,USD,0.019,0.019,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Data Stored,1 GB/Month,USD,0.019,0.019,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Data Stored,1 GB/Month,USD,0.019,0.019,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Data Stored,1 GB/Month,USD,0.019,0.019,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Data Stored,1 GB/Month,USD,0.0285,0.0285,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Early Delete,1 GB,USD,0.019,0.019,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Early Delete,1 GB,USD,0.019,0.019,0.0,0,2021-10-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Early Delete,1 GB,USD,0.019,0.019,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Early Delete,1 GB,USD,0.019,0.019,0.0,0,2019-11-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS List Operations,10K,USD,0.0813,0.0813,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Read Operations,10K,USD,0.01,0.01,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Read Operations,10K,USD,0.013,0.013,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Write Operations,10K,USD,0.13,0.13,0.0,0,2020-05-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Write Operations,10K,USD,0.13,0.13,0.0,0,2020-03-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Write Operations,10K,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Write Operations,10K,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Cool ZRS,eastus,Cool ZRS Write Operations,10K,USD,0.1,0.1,0.0,0,2018-07-01T00:00:00Z
+Storage,Cool ZRS,eastus,Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2021-02-01T00:00:00Z
+Storage,Cool ZRS,eastus,ZRS Metadata,1 GB/Month,USD,0.0371,0.0371,0.0,0,2020-05-01T00:00:00Z
+Storage,Data Geo Priority Replication,eastus,Data Geo Priority Replication GRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Data Geo Priority Replication,eastus,Data Geo Priority Replication GZRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Data Geo Priority Replication,eastus,Data Geo Priority Replication RA-GRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Data Geo Priority Replication,eastus,Data Geo Priority Replication RA-GZRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Disk Transactions,eastus,Disk Transactions LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2024-05-01T00:00:00Z
+Storage,Disk Transactions,eastus,Disk Transactions LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,Disk Transactions,eastus,Disk Transactions ZRS Disk Operations,10K,USD,0.003,0.003,0.0,0,2024-09-01T00:00:00Z
+Storage,E1 LRS,eastus,E1 LRS Disk,1/Month,USD,0.3,0.3,0.0,0,2020-07-01T00:00:00Z
+Storage,E1 LRS,eastus,E1 LRS Disk Mount,1/Month,USD,0.03,0.03,0.0,0,2021-07-01T00:00:00Z
+Storage,E1 ZRS,eastus,E1 ZRS Disk,1/Month,USD,0.45,0.45,0.0,0,2023-05-01T00:00:00Z
+Storage,E1 ZRS,eastus,E1 ZRS Disk Mount,1/Month,USD,0.361,0.361,0.0,0,2024-09-01T00:00:00Z
+Storage,E10 LRS,eastus,E10 LRS Disk,1/Month,USD,9.6,9.6,0.0,0,2018-11-01T00:00:00Z
+Storage,E10 LRS,eastus,E10 LRS Disk Mount,1/Month,USD,0.91,0.91,0.0,0,2021-07-01T00:00:00Z
+Storage,E10 LRS,eastus,E10 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E10 ZRS,eastus,E10 ZRS Disk,1/Month,USD,14.4,14.4,0.0,0,2023-05-01T00:00:00Z
+Storage,E10 ZRS,eastus,E10 ZRS Disk Mount,1/Month,USD,10.944,10.944,0.0,0,2024-09-01T00:00:00Z
+Storage,E10 ZRS,eastus,E10 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E15 LRS,eastus,E15 LRS Disk,1/Month,USD,19.2,19.2,0.0,0,2018-11-01T00:00:00Z
+Storage,E15 LRS,eastus,E15 LRS Disk Mount,1/Month,USD,1.83,1.83,0.0,0,2021-07-01T00:00:00Z
+Storage,E15 LRS,eastus,E15 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E15 ZRS,eastus,E15 ZRS Disk,1/Month,USD,28.8,28.8,0.0,0,2023-05-01T00:00:00Z
+Storage,E15 ZRS,eastus,E15 ZRS Disk Mount,1/Month,USD,21.888,21.888,0.0,0,2024-09-01T00:00:00Z
+Storage,E15 ZRS,eastus,E15 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E2 LRS,eastus,E2 LRS Disk,1/Month,USD,0.6,0.6,0.0,0,2020-07-01T00:00:00Z
+Storage,E2 LRS,eastus,E2 LRS Disk Mount,1/Month,USD,0.06,0.06,0.0,0,2021-07-01T00:00:00Z
+Storage,E2 ZRS,eastus,E2 ZRS Disk,1/Month,USD,0.9,0.9,0.0,0,2023-05-01T00:00:00Z
+Storage,E2 ZRS,eastus,E2 ZRS Disk Mount,1/Month,USD,0.721,0.721,0.0,0,2024-09-01T00:00:00Z
+Storage,E20 LRS,eastus,E20 LRS Disk,1/Month,USD,38.4,38.4,0.0,0,2018-11-01T00:00:00Z
+Storage,E20 LRS,eastus,E20 LRS Disk Mount,1/Month,USD,3.29,3.29,0.0,0,2021-07-01T00:00:00Z
+Storage,E20 LRS,eastus,E20 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E20 ZRS,eastus,E20 ZRS Disk,1/Month,USD,57.6,57.6,0.0,0,2023-05-01T00:00:00Z
+Storage,E20 ZRS,eastus,E20 ZRS Disk Mount,1/Month,USD,39.552,39.552,0.0,0,2024-09-01T00:00:00Z
+Storage,E20 ZRS,eastus,E20 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E3 LRS,eastus,E3 LRS Disk,1/Month,USD,1.2,1.2,0.0,0,2020-07-01T00:00:00Z
+Storage,E3 LRS,eastus,E3 LRS Disk Mount,1/Month,USD,0.12,0.12,0.0,0,2021-07-01T00:00:00Z
+Storage,E3 ZRS,eastus,E3 ZRS Disk,1/Month,USD,1.8,1.8,0.0,0,2023-05-01T00:00:00Z
+Storage,E3 ZRS,eastus,E3 ZRS Disk Mount,1/Month,USD,1.442,1.442,0.0,0,2024-09-01T00:00:00Z
+Storage,E30 LRS,eastus,E30 LRS Disk,1/Month,USD,76.8,76.8,0.0,0,2018-11-01T00:00:00Z
+Storage,E30 LRS,eastus,E30 LRS Disk Mount,1/Month,USD,6.57,6.57,0.0,0,2021-07-01T00:00:00Z
+Storage,E30 LRS,eastus,E30 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E30 ZRS,eastus,E30 ZRS Disk,1/Month,USD,115.2,115.2,0.0,0,2023-05-01T00:00:00Z
+Storage,E30 ZRS,eastus,E30 ZRS Disk Mount,1/Month,USD,79.104,79.104,0.0,0,2024-09-01T00:00:00Z
+Storage,E30 ZRS,eastus,E30 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E4 LRS,eastus,E4 LRS Disk,1/Month,USD,2.4,2.4,0.0,0,2019-01-01T00:00:00Z
+Storage,E4 LRS,eastus,E4 LRS Disk Mount,1/Month,USD,0.26,0.26,0.0,0,2021-07-01T00:00:00Z
+Storage,E4 LRS,eastus,E4 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E4 ZRS,eastus,E4 ZRS Disk,1/Month,USD,3.6,3.6,0.0,0,2023-05-01T00:00:00Z
+Storage,E4 ZRS,eastus,E4 ZRS Disk Mount,1/Month,USD,3.12,3.12,0.0,0,2024-09-01T00:00:00Z
+Storage,E4 ZRS,eastus,E4 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E40 LRS,eastus,E40 LRS Disk,1/Month,USD,153.6,153.6,0.0,0,2018-11-01T00:00:00Z
+Storage,E40 LRS,eastus,E40 LRS Disk Mount,1/Month,USD,13.14,13.14,0.0,0,2021-07-01T00:00:00Z
+Storage,E40 LRS,eastus,E40 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E40 ZRS,eastus,E40 ZRS Disk,1/Month,USD,230.4,230.4,0.0,0,2023-05-01T00:00:00Z
+Storage,E40 ZRS,eastus,E40 ZRS Disk Mount,1/Month,USD,158.21,158.21,0.0,0,2024-09-01T00:00:00Z
+Storage,E40 ZRS,eastus,E40 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E50 LRS,eastus,E50 LRS Disk,1/Month,USD,307.2,307.2,0.0,0,2018-11-01T00:00:00Z
+Storage,E50 LRS,eastus,E50 LRS Disk Mount,1/Month,USD,25.55,25.55,0.0,0,2021-07-01T00:00:00Z
+Storage,E50 LRS,eastus,E50 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E50 ZRS,eastus,E50 ZRS Disk,1/Month,USD,460.8,460.8,0.0,0,2023-05-01T00:00:00Z
+Storage,E50 ZRS,eastus,E50 ZRS Disk Mount,1/Month,USD,307.2,307.2,0.0,0,2024-09-01T00:00:00Z
+Storage,E50 ZRS,eastus,E50 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E6 LRS,eastus,E6 LRS Disk,1/Month,USD,4.8,4.8,0.0,0,2019-01-01T00:00:00Z
+Storage,E6 LRS,eastus,E6 LRS Disk Mount,1/Month,USD,0.47,0.47,0.0,0,2021-07-01T00:00:00Z
+Storage,E6 LRS,eastus,E6 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E6 ZRS,eastus,E6 ZRS Disk,1/Month,USD,7.2,7.2,0.0,0,2023-05-01T00:00:00Z
+Storage,E6 ZRS,eastus,E6 ZRS Disk Mount,1/Month,USD,5.65,5.65,0.0,0,2024-09-01T00:00:00Z
+Storage,E6 ZRS,eastus,E6 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E60 LRS,eastus,E60 LRS Disk,1/Month,USD,614.4,614.4,0.0,0,2019-05-01T00:00:00Z
+Storage,E60 LRS,eastus,E60 LRS Disk Mount,1/Month,USD,51.1,51.1,0.0,0,2021-07-01T00:00:00Z
+Storage,E60 LRS,eastus,E60 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E60 ZRS,eastus,E60 ZRS Disk,1/Month,USD,921.6,921.6,0.0,0,2023-05-01T00:00:00Z
+Storage,E60 ZRS,eastus,E60 ZRS Disk Mount,1/Month,USD,614.4,614.4,0.0,0,2024-09-01T00:00:00Z
+Storage,E60 ZRS,eastus,E60 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E70 LRS,eastus,E70 LRS Disk,1/Month,USD,1228.8,1228.8,0.0,0,2019-05-01T00:00:00Z
+Storage,E70 LRS,eastus,E70 LRS Disk Mount,1/Month,USD,109.5,109.5,0.0,0,2021-07-01T00:00:00Z
+Storage,E70 LRS,eastus,E70 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E70 ZRS,eastus,E70 ZRS Disk,1/Month,USD,1843.2,1843.2,0.0,0,2023-05-01T00:00:00Z
+Storage,E70 ZRS,eastus,E70 ZRS Disk Mount,1/Month,USD,1314.82,1314.82,0.0,0,2024-09-01T00:00:00Z
+Storage,E70 ZRS,eastus,E70 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,E80 LRS,eastus,E80 LRS Disk,1/Month,USD,2457.6,2457.6,0.0,0,2019-05-01T00:00:00Z
+Storage,E80 LRS,eastus,E80 LRS Disk Mount,1/Month,USD,219.0,219.0,0.0,0,2021-07-01T00:00:00Z
+Storage,E80 LRS,eastus,E80 LRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2018-11-01T00:00:00Z
+Storage,E80 ZRS,eastus,E80 ZRS Disk,1/Month,USD,3686.4,3686.4,0.0,0,2023-05-01T00:00:00Z
+Storage,E80 ZRS,eastus,E80 ZRS Disk Mount,1/Month,USD,2629.63,2629.63,0.0,0,2024-09-01T00:00:00Z
+Storage,E80 ZRS,eastus,E80 ZRS Disk Operations,10K,USD,0.002,0.002,0.0,0,2024-09-01T00:00:00Z
+Storage,Geo-Replication,eastus,Geo-Replication Data Transfer,1 GB,USD,0.0,0.0,,0,2016-07-07T00:00:00Z
+Storage,Geo-Replication v2,eastus,Geo-Replication v2 Data Transfer,1 GB,USD,0.02,0.02,0.0,0,2016-11-07T00:00:00Z
+Storage,HDD,eastus,HDD GRS Overflow Snapshot Usage,1 GiB/Hour,USD,2.3e-05,2.3e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GRS Provisioned IOPS,1/Hour,USD,0.000127,0.000127,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GRS Provisioned Storage,1 GiB/Hour,USD,2.3e-05,2.3e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GRS Provisioned Throughput MiBPS,1/Hour,USD,0.000189,0.000189,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GRS Soft-Deleted Usage,1 GiB/Hour,USD,2.3e-05,2.3e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GZRS Overflow Snapshot Usage,1 GiB/Hour,USD,2.6e-05,2.6e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GZRS Provisioned IOPS,1/Hour,USD,0.00014,0.00014,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GZRS Provisioned Storage,1 GiB/Hour,USD,2.6e-05,2.6e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GZRS Provisioned Throughput MiBPS,1/Hour,USD,0.000209,0.000209,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD GZRS Soft-Deleted Usage,1 GiB/Hour,USD,2.6e-05,2.6e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD LRS Overflow Snapshot Usage,1 GiB/Hour,USD,1e-05,1e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD LRS Provisioned IOPS,1/Hour,USD,5.5e-05,5.5e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD LRS Provisioned Storage,1 GiB/Hour,USD,1e-05,1e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD LRS Provisioned Throughput MiBPS,1/Hour,USD,8.2e-05,8.2e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD LRS Soft-Deleted Usage,1 GiB/Hour,USD,1e-05,1e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD ZRS Overflow Snapshot Usage,1 GiB/Hour,USD,1.3e-05,1.3e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD ZRS Provisioned IOPS,1/Hour,USD,6.9e-05,6.9e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD ZRS Provisioned Storage,1 GiB/Hour,USD,1.3e-05,1.3e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD ZRS Provisioned Throughput MiBPS,1/Hour,USD,0.000103,0.000103,0.0,0,2024-08-01T00:00:00Z
+Storage,HDD,eastus,HDD ZRS Soft-Deleted Usage,1 GiB/Hour,USD,1.3e-05,1.3e-05,0.0,0,2024-08-01T00:00:00Z
+Storage,Hot GRS,eastus,All Other Operations,10K,USD,0.004,0.004,0.0,0,2017-10-01T00:00:00Z
+Storage,Hot GRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot GRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot GRS,eastus,GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2021-02-01T00:00:00Z
+Storage,Hot GRS,eastus,GRS List and Create Container Operations,10K,USD,0.1,0.1,0.0,0,2018-12-01T00:00:00Z
+Storage,Hot GRS,eastus,GRS Metadata,1 GB/Month,USD,0.0655,0.0655,0.0,0,2019-07-05T00:00:00Z
+Storage,Hot GRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.0458,0.0458,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.044,0.044,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.0421,0.0421,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.046,0.046,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.044,0.044,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.0421,0.0421,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.0458,0.0458,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.044,0.044,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.0421,0.0421,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.0632,0.0632,0.0,0,2020-05-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.0458,0.0458,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.043968,0.043968,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Data Stored,1 GB/Month,USD,0.042136,0.042136,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Delete Operations,10K,USD,0.0,0.0,,0,2021-10-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Index,1 GB/Month,USD,0.0655,0.0655,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Iterative Read Operations,10K,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Iterative Read Operations,10K,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Iterative Write Operations,100,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Iterative Write Operations,100,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS List Operations,10K,USD,0.13,0.13,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Other Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Read Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Write Operations,10K,USD,0.13,0.13,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Write Operations,10K,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Write Operations,10K,USD,0.13,0.13,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Write Operations,10K,USD,0.1,0.1,0.0,0,2016-11-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot GRS Write Operations,10K,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Other Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2016-11-01T00:00:00Z
+Storage,Hot GZRS,eastus,All Other Operations,10K,USD,0.004,0.004,0.0,0,2017-10-01T00:00:00Z
+Storage,Hot GZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot GZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot GZRS,eastus,GZRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2020-11-30T00:00:00Z
+Storage,Hot GZRS,eastus,GZRS List and Create Container Operations,10K,USD,0.1175,0.1175,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,GZRS Metadata,1 GB/Month,USD,0.0668,0.0668,0.0,0,2020-08-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.0468,0.0468,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.044928,0.044928,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.043056,0.043056,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.0647,0.0647,0.0,0,2020-08-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.046,0.046,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.0442,0.0442,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.0423,0.0423,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.0468,0.0468,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.044928,0.044928,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.043056,0.043056,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.0468,0.0468,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.044928,0.044928,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Data Stored,1 GB/Month,USD,0.043056,0.043056,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Delete Operations,10K,USD,0.0,0.0,,0,2021-10-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Index,1 GB/Month,USD,0.07425,0.07425,0.0,0,2024-10-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Iterative Read Operations,10K,USD,0.1625,0.1625,0.0,0,2024-01-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Iterative Read Operations,10K,USD,0.0625,0.0625,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Iterative Write Operations,100,USD,0.1365,0.1365,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS List Operations,10K,USD,0.1528,0.1528,0.0,0,2020-08-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Other Operations,10K,USD,0.01092,0.01092,0.0,0,2020-08-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Other Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Read Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Write Operations,10K,USD,0.1528,0.1528,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Write Operations,10K,USD,0.1175,0.1175,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Write Operations,10K,USD,0.1528,0.1528,0.0,0,2020-08-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Write Operations,10K,USD,0.1175,0.1175,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot GZRS Write Operations,10K,USD,0.306,0.306,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Other Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2020-08-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot GZRS,eastus,Hot ZRS Read Operations,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Hot Hierarchical Namespace,eastus,Hot Hierarchical Namespace Unindexed Tags,10K/Month,USD,0.0065,0.0065,0.0,0,2026-04-01T00:00:00Z
+Storage,Hot LRS,eastus,All Other Operations,10K,USD,0.004,0.004,0.0,0,2017-10-01T00:00:00Z
+Storage,Hot LRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot LRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot LRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Iterative Read Operations,10K,USD,0.065,0.065,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Iterative Read Operations,10K,USD,0.05,0.05,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Iterative Write Operations,100,USD,0.065,0.065,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Iterative Write Operations,100,USD,0.05,0.05,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.0208,0.0208,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.019968,0.019968,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.019136,0.019136,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.0208,0.0208,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.02,0.02,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.0191,0.0191,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.0208,0.0208,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.02,0.02,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.0191,0.0191,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.021,0.021,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.02,0.02,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.0191,0.0191,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Data Stored,1 GB/Month,USD,0.0287,0.0287,0.0,0,2020-05-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Delete Operations,10K,USD,0.0,0.0,,0,2021-10-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Index,1 GB/Month,USD,0.0297,0.0297,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS List Operations,10K,USD,0.065,0.065,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Other Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Read Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Write Operations,10K,USD,0.05,0.05,0.0,0,2016-11-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Write Operations,10K,USD,0.065,0.065,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot LRS Write Operations,10K,USD,0.065,0.065,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Other Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2016-11-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Write Operations,10K,USD,0.065,0.065,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Hot Write Operations,10K,USD,0.05,0.05,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot LRS,eastus,Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2021-02-01T00:00:00Z
+Storage,Hot LRS,eastus,LRS List and Create Container Operations,10K,USD,0.05,0.05,0.0,0,2018-12-01T00:00:00Z
+Storage,Hot LRS,eastus,LRS Metadata,1 GB/Month,USD,0.0297,0.0297,0.0,0,2019-07-05T00:00:00Z
+Storage,Hot RA-GRS,eastus,All Other Operations,10K,USD,0.004,0.004,0.0,0,2017-10-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot RA-GRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot RA-GRS,eastus,GRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2021-02-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot GRS Iterative Read Operations,10K,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot GRS Iterative Read Operations,10K,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot GRS Iterative Write Operations,100,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot GRS Iterative Write Operations,100,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot GRS Write Operations,10K,USD,0.1,0.1,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot GRS Write Operations,10K,USD,0.1,0.1,0.0,0,2016-11-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot GRS Write Operations,10K,USD,0.13,0.13,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Other Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0589,0.0589,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0565,0.0565,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0542,0.0542,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0589,0.0589,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0565,0.0565,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0542,0.0542,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0589,0.0589,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.056544,0.056544,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.054188,0.054188,0.0,0,2017-02-03T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.059,0.059,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0565,0.0565,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Data Stored,1 GB/Month,USD,0.0542,0.0542,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Delete Operations,10K,USD,0.0,0.0,,0,2021-10-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Index,1 GB/Month,USD,0.0842,0.0842,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Named Encryption Scopes,1/Month,USD,1.5,1.5,0.0,0,2021-03-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Other Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Read Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot RA-GRS Write Operations,10K,USD,0.13,0.13,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2016-11-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,All Other Operations,10K,USD,0.004,0.004,0.0,0,2017-10-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot RA-GZRS,eastus,GZRS Index Tags,10K/Month,USD,0.069,0.069,0.0,0,2020-11-30T00:00:00Z
+Storage,Hot RA-GZRS,eastus,GZRS List and Create Container Operations,10K,USD,0.0522,0.0522,0.0,0,2023-01-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot GZRS Iterative Read Operations,10K,USD,0.1625,0.1625,0.0,0,2024-01-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot GZRS Iterative Read Operations,10K,USD,0.0625,0.0625,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot GZRS Iterative Write Operations,100,USD,0.1365,0.1365,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot GZRS Write Operations,10K,USD,0.1528,0.1528,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot GZRS Write Operations,10K,USD,0.1175,0.1175,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Other Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.0585,0.0585,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.05616,0.05616,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.05382,0.05382,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.0585,0.0585,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.05616,0.05616,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.05382,0.05382,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.0585,0.0585,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.05616,0.05616,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.05382,0.05382,0.0,0,2020-07-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.058,0.058,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.0557,0.0557,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Data Stored,1 GB/Month,USD,0.0534,0.0534,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Delete Operations,10K,USD,0.0,0.0,,0,2021-10-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Index,1 GB/Month,USD,0.07425,0.07425,0.0,0,2024-10-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Named Encryption Scopes,1/Month,USD,1.5,1.5,0.0,0,2021-03-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Other Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot RA-GZRS Read Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot RA-GZRS,eastus,Hot ZRS Read Operations,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Hot ZRS,eastus,All Other Operations,10K,USD,0.004,0.004,0.0,0,2017-10-01T00:00:00Z
+Storage,Hot ZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot ZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2019-01-30T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Data Returned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2024-11-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Data Scanned for Query Acceleration,1 GB,USD,0.002,0.002,0.0,0,2020-12-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Iterative Write Operations,100,USD,0.065,0.065,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Iterative Write Operations,100,USD,0.05,0.05,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Other Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Other Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-06-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Read Operations,10K,USD,0.004,0.004,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot Read Operations,10K,USD,0.0052,0.0052,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Blob Inventory,1M,USD,0.00325,0.00325,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2021-10-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.026,0.026,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.025,0.025,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.0239,0.0239,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.026,0.026,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.025,0.025,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.0239,0.0239,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.036,0.036,0.0,0,2020-05-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.026,0.026,0.0,0,2018-07-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.02496,0.02496,0.0,0,2018-07-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.02392,0.02392,0.0,0,2018-07-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.026,0.026,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.025,0.025,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Data Stored,1 GB/Month,USD,0.0239,0.0239,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Delete Operations,10K,USD,0.0,0.0,,0,2021-10-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Index,1 GB/Month,USD,0.0371,0.0371,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Iterative Read Operations,10K,USD,0.0625,0.0625,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Iterative Read Operations,10K,USD,0.0813,0.0813,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS List Operations,10K,USD,0.0813,0.0813,0.0,0,2020-05-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Named Encryption Scopes,1/Month,USD,1.0,1.0,0.0,0,2021-03-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Other Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Read Operations,10K,USD,0.005,0.005,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Read Operations,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Write Operations,10K,USD,0.081,0.081,0.0,0,2020-03-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Write Operations,10K,USD,0.0625,0.0625,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Write Operations,10K,USD,0.0813,0.0813,0.0,0,2020-05-01T00:00:00Z
+Storage,Hot ZRS,eastus,Hot ZRS Write Operations,10K,USD,0.0813,0.0813,0.0,0,2019-04-01T00:00:00Z
+Storage,Hot ZRS,eastus,Index Tags,10K/Month,USD,0.03,0.03,0.0,0,2021-02-01T00:00:00Z
+Storage,Hot ZRS,eastus,ZRS List and Create Container Operations,10K,USD,0.0625,0.0625,0.0,0,2018-07-01T00:00:00Z
+Storage,Hot ZRS,eastus,ZRS Metadata,1 GB/Month,USD,0.0371,0.0371,0.0,0,2020-05-01T00:00:00Z
+Storage,Instant Access Snapshots,eastus,Instant Access Snapshots LRS,1 GB/Hour,USD,0.000164,0.000164,0.0,0,2026-06-01T00:00:00Z
+Storage,Instant Access Snapshots,eastus,Instant Access Snapshots LRS,1 GB/Hour,USD,0.00011,0.00011,0.0,0,2026-06-01T00:00:00Z
+Storage,Instant Access Snapshots,eastus,Instant Access Snapshots LRS Disk Capacity Restored,1 TB,USD,0.4,0.4,0.0,0,2026-06-01T00:00:00Z
+Storage,Instant Access Snapshots,eastus,Instant Access Snapshots LRS Disk Capacity Restored,1 TB,USD,0.4,0.4,0.0,0,2026-06-01T00:00:00Z
+Storage,Microsoft_StorageTasks,eastus,Azure Storage Tasks Objects Operated On,1M,USD,0.01,0.01,0.0,0,2024-05-01T00:00:00Z
+Storage,Microsoft_StorageTasks,eastus,Azure Storage Tasks Objects Targeted,1M,USD,0.1,0.1,0.0,0,2025-04-01T00:00:00Z
+Storage,Microsoft_StorageTasks,eastus,Azure Storage Tasks Operations Invoked,1M,USD,1.0,1.0,0.0,0,2025-04-01T00:00:00Z
+Storage,Microsoft_StorageTasks,eastus,Azure Storage Tasks Task Execution,1,USD,0.25,0.25,0.0,0,2025-04-01T00:00:00Z
+Storage,P1 LRS,eastus,P1 LRS Disk,1/Month,USD,0.6,0.6,0.0,0,2020-06-01T00:00:00Z
+Storage,P1 LRS,eastus,P1 LRS Disk Mount,1/Month,USD,0.03,0.03,0.0,0,2021-07-01T00:00:00Z
+Storage,P1 ZRS,eastus,P1 ZRS Disk,1/Month,USD,0.9,0.9,0.0,0,2022-03-01T00:00:00Z
+Storage,P1 ZRS,eastus,P1 ZRS Disk Mount,1/Month,USD,0.03,0.03,0.0,0,2024-09-01T00:00:00Z
+Storage,P10 LRS,eastus,P10 LRS Disk,1/Month,USD,19.71,19.71,0.0,0,2015-10-28T00:00:00Z
+Storage,P10 ZRS,eastus,P10 ZRS Disk,1/Month,USD,29.565,29.565,0.0,0,2021-10-01T00:00:00Z
+Storage,P15 LRS,eastus,P15 LRS Disk,1/Month,USD,38.012142,38.012142,0.0,0,2017-04-01T00:00:00Z
+Storage,P15 ZRS,eastus,P15 ZRS Disk,1/Month,USD,57.018213,57.018213,0.0,0,2021-10-01T00:00:00Z
+Storage,P2 LRS,eastus,P2 LRS Disk,1/Month,USD,1.2,1.2,0.0,0,2020-06-01T00:00:00Z
+Storage,P2 LRS,eastus,P2 LRS Disk Mount,1/Month,USD,0.06,0.06,0.0,0,2021-07-01T00:00:00Z
+Storage,P2 ZRS,eastus,P2 ZRS Disk,1/Month,USD,1.8,1.8,0.0,0,2022-03-01T00:00:00Z
+Storage,P2 ZRS,eastus,P2 ZRS Disk Mount,1/Month,USD,0.06,0.06,0.0,0,2024-09-01T00:00:00Z
+Storage,P20 LRS,eastus,P20 LRS Disk,1/Month,USD,73.22,73.22,0.0,0,2015-10-28T00:00:00Z
+Storage,P20 ZRS,eastus,P20 ZRS Disk,1/Month,USD,109.83,109.83,0.0,0,2021-10-01T00:00:00Z
+Storage,P3 LRS,eastus,P3 LRS Disk,1/Month,USD,2.4,2.4,0.0,0,2020-06-01T00:00:00Z
+Storage,P3 LRS,eastus,P3 LRS Disk Mount,1/Month,USD,0.12,0.12,0.0,0,2021-07-01T00:00:00Z
+Storage,P3 ZRS,eastus,P3 ZRS Disk,1/Month,USD,3.6,3.6,0.0,0,2022-03-01T00:00:00Z
+Storage,P3 ZRS,eastus,P3 ZRS Disk Mount,1/Month,USD,0.12,0.12,0.0,0,2024-09-01T00:00:00Z
+Storage,P30 LRS,eastus,P30 LRS Disk,1/Month,USD,135.17,135.17,0.0,0,2015-10-28T00:00:00Z
+Storage,P30 ZRS,eastus,P30 ZRS Disk,1/Month,USD,202.755,202.755,0.0,0,2021-10-01T00:00:00Z
+Storage,P4 LRS,eastus,P4 LRS Disk,1/Month,USD,5.2795,5.2795,0.0,0,2018-10-01T00:00:00Z
+Storage,P4 LRS,eastus,P4 LRS Disk,1/Month,USD,5.2795,5.2795,0.0,0,2018-05-01T00:00:00Z
+Storage,P4 LRS,eastus,P4 LRS Disk Mount,1/Month,USD,0.26,0.26,0.0,0,2021-07-01T00:00:00Z
+Storage,P4 ZRS,eastus,P4 ZRS Disk,1/Month,USD,7.919,7.919,0.0,0,2022-03-01T00:00:00Z
+Storage,P4 ZRS,eastus,P4 ZRS Disk,1/Month,USD,7.91925,7.91925,0.0,0,2021-10-01T00:00:00Z
+Storage,P4 ZRS,eastus,P4 ZRS Disk Mount,1/Month,USD,0.26,0.26,0.0,0,2024-09-01T00:00:00Z
+Storage,P40 LRS,eastus,P40 LRS Disk,1/Month,USD,259.0457,259.0457,0.0,0,2017-01-01T00:00:00Z
+Storage,P40 ZRS,eastus,P40 ZRS Disk,1/Month,USD,388.56855,388.56855,0.0,0,2021-10-01T00:00:00Z
+Storage,P50 LRS,eastus,P50 LRS Disk,1/Month,USD,495.5657,495.5657,0.0,0,2017-01-01T00:00:00Z
+Storage,P50 ZRS,eastus,P50 ZRS Disk,1/Month,USD,743.34855,743.34855,0.0,0,2021-10-01T00:00:00Z
+Storage,P6 LRS,eastus,P6 LRS Disk,1/Month,USD,10.207,10.207,0.0,0,2018-10-01T00:00:00Z
+Storage,P6 ZRS,eastus,P6 ZRS Disk,1/Month,USD,15.3105,15.3105,0.0,0,2021-10-01T00:00:00Z
+Storage,P60 LRS,eastus,P60 LRS Disk,1/Month,USD,946.08,946.08,0.0,0,2017-01-01T00:00:00Z
+Storage,P60 ZRS,eastus,P60 ZRS Disk,1/Month,USD,1419.12,1419.12,0.0,0,2021-10-01T00:00:00Z
+Storage,P70 LRS,eastus,P70 LRS Disk,1/Month,USD,1802.06,1802.06,0.0,0,2024-06-01T00:00:00Z
+Storage,P80 LRS,eastus,P80 LRS Disk,1/Month,USD,3604.11,3604.11,0.0,0,2024-06-01T00:00:00Z
+Storage,Point-in-time Restore GRS,eastus,Point-in-time Restore GRS Data Processed,1 MB,USD,0.04,0.04,0.0,0,2021-05-01T00:00:00Z
+Storage,Point-in-time Restore LRS,eastus,Point-in-time Restore LRS Data Processed,1 MB,USD,0.02,0.02,0.0,0,2021-05-01T00:00:00Z
+Storage,Premium,eastus,Premium Hierarchical Namespace Unindexed Tags,10K/Month,USD,0.0065,0.0065,0.0,0,2026-04-01T00:00:00Z
+Storage,Premium,eastus,Premium LRS Provisioned Base Unit,1 GiB/Month,USD,0.08,0.08,0.0,0,2024-04-01T00:00:00Z
+Storage,Premium,eastus,Premium LRS Provisioned Capacity Unit,1 GiB/Month,USD,0.06,0.06,0.0,0,2024-04-01T00:00:00Z
+Storage,Premium,eastus,Premium ZRS Provisioned Base Unit,1 GiB/Month,USD,0.12,0.12,0.0,0,2025-07-01T00:00:00Z
+Storage,Premium,eastus,Premium ZRS Provisioned Capacity Unit,1 GiB/Month,USD,0.09,0.09,0.0,0,2025-07-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Archive Tier Down,1 GB,USD,0.14901,0.14901,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Archive Tier Down,1 GB,USD,0.14901,0.14901,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Archive Tier Down,1 GB,USD,0.14901,0.14901,0.0,0,2022-12-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Archive Tier Down,1 GB,USD,0.14901,0.14901,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Cool Tier Down,1 GB,USD,0.135,0.135,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Cool Tier Down,1 GB,USD,0.1348,0.1348,0.0,0,2022-12-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Cool Tier Down,1 GB,USD,0.1348,0.1348,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Cool Tier Down,1 GB,USD,0.1348,0.1348,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Hot Tier Down,1 GB,USD,0.12801,0.12801,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Hot Tier Down,1 GB,USD,0.1292,0.1292,0.0,0,2022-12-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Hot Tier Down,1 GB,USD,0.1292,0.1292,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,LRS Early Premium To Hot Tier Down,1 GB,USD,0.1292,0.1292,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS All Other Operations,10K,USD,0.0014,0.0014,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS All Other Operations,10K,USD,0.0014,0.0014,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS All Other Operations,10K,USD,0.00182,0.00182,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS All Other Operations,10K,USD,0.00182,0.00182,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2023-06-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2023-06-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Burst Bandwidth,1 GiB,USD,0.01,0.01,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Burst Transactions,1M,USD,0.5,0.5,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Returned for Query Acceleration,1 GB,USD,0.000245,0.000245,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Returned for Query Acceleration,1 GB,USD,0.000245,0.000245,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Scanned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Scanned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Stored,1 GB/Month,USD,0.15,0.15,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Stored,1 GB/Month,USD,0.15,0.15,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Stored,1 GB/Month,USD,0.15,0.15,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Data Stored,1 GB/Month,USD,0.15,0.15,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Iterative Read Operations,10K,USD,0.0175,0.0175,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Iterative Read Operations,10K,USD,0.0228,0.0228,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Iterative Write Operations,100,USD,0.0228,0.0228,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Iterative Write Operations,100,USD,0.0175,0.0175,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS List and Create Container Operations,10K,USD,0.05,0.05,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS List and Create Container Operations,10K,USD,0.065,0.065,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS MetaData Storage,1 GB/Month,USD,0.15,0.15,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Provisioned,1 GB/Month,USD,0.16,0.16,0.0,0,2020-10-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Provisioned Capacity,1 GiB/Hour,USD,0.00011,0.00011,0.0,0,2022-11-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Provisioned IOPS,1/Hour,USD,0.0,0.0,,0,2022-11-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Provisioned IOPS,1/Hour,USD,7e-06,7e-06,0.0,0,2022-11-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Provisioned Throughput (MBps),1/Hour,USD,0.0,0.0,,0,2022-11-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Provisioned Throughput (MBps),1/Hour,USD,5.5e-05,5.5e-05,0.0,0,2022-11-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Read Operations,10K,USD,0.00182,0.00182,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Read Operations,10K,USD,0.00182,0.00182,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Read Operations,10K,USD,0.0014,0.0014,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Read Operations,10K,USD,0.0014,0.0014,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Snapshots,1 GB/Month,USD,0.136,0.136,0.0,0,2020-10-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Write Operations,10K,USD,0.0175,0.0175,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Write Operations,10K,USD,0.0228,0.0228,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Write Operations,10K,USD,0.0175,0.0175,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium LRS,eastus,Premium LRS Write Operations,10K,USD,0.0228,0.0228,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS All Other Operations,10K,USD,0.00242,0.00242,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS All Other Operations,10K,USD,0.00186,0.00186,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS All Other Operations,10K,USD,0.00186,0.00186,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS All Other Operations,10K,USD,0.00242,0.00242,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2023-06-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Blob Inventory,1M,USD,0.0025,0.0025,0.0,0,2023-06-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Burst Bandwidth,1 GiB,USD,0.0125,0.0125,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Burst Transactions,1M,USD,0.625,0.625,0.0,0,2023-01-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Returned for Query Acceleration,1 GB,USD,0.000245,0.000245,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Returned for Query Acceleration,1 GB,USD,0.000245,0.000245,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Scanned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Scanned for Query Acceleration,1 GB,USD,0.0007,0.0007,0.0,0,2026-01-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Stored,1 GB/Month,USD,0.2,0.2,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Stored,1 GB/Month,USD,0.2,0.2,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Stored,1 GB/Month,USD,0.2,0.2,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Data Stored,1 GB/Month,USD,0.2,0.2,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Iterative Read Operations,10K,USD,0.0233,0.0233,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Iterative Read Operations,10K,USD,0.0303,0.0303,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Iterative Write Operations,100,USD,0.0303,0.0303,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Iterative Write Operations,100,USD,0.0233,0.0233,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS List and Create Container Operations,10K,USD,0.0871,0.0871,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS List and Create Container Operations,10K,USD,0.067,0.067,0.0,0,2019-09-06T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS MetaData Storage,1 GB/Month,USD,0.2,0.2,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Provisioned,1 GB/Month,USD,0.2,0.2,0.0,0,2020-10-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Read Operations,10K,USD,0.00186,0.00186,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Read Operations,10K,USD,0.00242,0.00242,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Read Operations,10K,USD,0.00186,0.00186,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Read Operations,10K,USD,0.00242,0.00242,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Snapshots,1 GB/Month,USD,0.17,0.17,0.0,0,2020-10-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Write Operations,10K,USD,0.0303,0.0303,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Write Operations,10K,USD,0.0233,0.0233,0.0,0,2020-02-01T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Write Operations,10K,USD,0.0303,0.0303,0.0,0,2020-08-15T00:00:00Z
+Storage,Premium ZRS,eastus,Premium ZRS Write Operations,10K,USD,0.0233,0.0233,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P10,eastus,P10 LRS Disk,1/Month,USD,19.71,19.71,0.0,0,2018-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P10,eastus,P10 LRS Disk Mount,1/Month,USD,0.91,0.91,0.0,0,2021-07-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P10,eastus,P10 ZRS Disk,1/Month,USD,29.565,29.565,0.0,0,2022-03-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P10,eastus,P10 ZRS Disk Mount,1/Month,USD,0.91,0.91,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P15,eastus,P15 LRS Disk,1/Month,USD,38.012142,38.012142,0.0,0,2018-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P15,eastus,P15 LRS Disk Mount,1/Month,USD,1.825,1.825,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P15,eastus,P15 ZRS Disk,1/Month,USD,57.018,57.018,0.0,0,2023-08-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P15,eastus,P15 ZRS Disk Mount,1/Month,USD,1.825,1.825,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P20,eastus,P20 LRS Disk,1/Month,USD,73.22,73.22,0.0,0,2018-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P20,eastus,P20 LRS Disk Mount,1/Month,USD,3.285,3.285,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P20,eastus,P20 ZRS Disk,1/Month,USD,109.81,109.81,0.0,0,2022-03-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P20,eastus,P20 ZRS Disk Mount,1/Month,USD,3.285,3.285,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P6,eastus,P6 LRS Disk,1/Month,USD,10.207,10.207,0.0,0,2018-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P6,eastus,P6 LRS Disk Mount,1/Month,USD,0.47,0.47,0.0,0,2021-07-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P6,eastus,P6 ZRS Disk,1/Month,USD,15.31,15.31,0.0,0,2023-08-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disk_P6,eastus,P6 ZRS Disk Mount,1/Month,USD,0.47,0.47,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P30,eastus,P30 LRS Disk,1/Month,USD,135.17,135.17,0.0,0,2018-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P30,eastus,P30 LRS Disk Mount,1/Month,USD,6.57,6.57,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P30,eastus,P30 ZRS Disk,1/Month,USD,202.73,202.73,0.0,0,2022-03-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P30,eastus,P30 ZRS Disk Mount,1/Month,USD,6.57,6.57,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P40,eastus,P40 LRS Disk,1/Month,USD,259.0457,259.0457,0.0,0,2018-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P40,eastus,P40 LRS Disk Mount,1/Month,USD,13.14,13.14,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P40,eastus,P40 ZRS Disk,1/Month,USD,388.57,388.57,0.0,0,2022-03-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P40,eastus,P40 ZRS Disk Mount,1/Month,USD,13.139,13.139,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P50,eastus,P50 LRS Disk,1/Month,USD,495.5657,495.5657,0.0,0,2018-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P50,eastus,P50 LRS Disk Mount,1/Month,USD,25.55,25.55,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P50,eastus,P50 ZRS Disk,1/Month,USD,743.35,743.35,0.0,0,2023-08-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P50,eastus,P50 ZRS Disk Mount,1/Month,USD,25.457,25.457,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P60,eastus,P60 LRS Disk,1/Month,USD,946.08,946.08,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P60,eastus,P60 LRS Disk Mount,1/Month,USD,51.1,51.1,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P60,eastus,P60 ZRS Disk,1/Month,USD,1419.12,1419.12,0.0,0,2023-08-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P60,eastus,P60 ZRS Disk Mount,1/Month,USD,50.915,50.915,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P70,eastus,P70 LRS Disk,1/Month,USD,1802.06,1802.06,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P70,eastus,P70 LRS Disk Mount,1/Month,USD,109.5,109.5,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P70,eastus,P70 ZRS Disk,1/Month,USD,2703.09,2703.09,0.0,0,2023-08-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P70,eastus,P70 ZRS Disk Mount,1/Month,USD,109.49,109.49,0.0,0,2024-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P80,eastus,P80 LRS Disk,1/Month,USD,3604.11,3604.11,0.0,0,2019-05-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P80,eastus,P80 LRS Disk Mount,1/Month,USD,219.0,219.0,0.0,0,2020-09-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P80,eastus,P80 ZRS Disk,1/Month,USD,5406.16,5406.16,0.0,0,2023-08-01T00:00:00Z
+Storage,Premium_SSD_Managed_Disks_P80,eastus,P80 ZRS Disk Mount,1/Month,USD,218.99,218.99,0.0,0,2024-09-01T00:00:00Z
+Storage,Priority Object Replication,eastus,Priority Object Replication GRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Priority Object Replication,eastus,Priority Object Replication GZRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Priority Object Replication,eastus,Priority Object Replication LRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Priority Object Replication,eastus,Priority Object Replication RA-GRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Priority Object Replication,eastus,Priority Object Replication RA-GZRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,Priority Object Replication,eastus,Priority Object Replication ZRS Data Replicated,1 GB,USD,0.015,0.015,0.0,0,2025-10-01T00:00:00Z
+Storage,S10 LRS,eastus,S10 LRS Disk,1/Month,USD,5.888,5.888,0.0,0,2017-10-01T00:00:00Z
+Storage,S10 LRS,eastus,S10 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S15 LRS,eastus,S15 LRS Disk,1/Month,USD,11.328,11.328,0.0,0,2017-10-01T00:00:00Z
+Storage,S15 LRS,eastus,S15 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S20 LRS,eastus,S20 LRS Disk,1/Month,USD,21.76,21.76,0.0,0,2017-10-01T00:00:00Z
+Storage,S20 LRS,eastus,S20 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S30 LRS,eastus,S30 LRS Disk,1/Month,USD,40.96,40.96,0.0,0,2017-10-01T00:00:00Z
+Storage,S30 LRS,eastus,S30 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S4 LRS,eastus,S4 LRS Disk,1/Month,USD,1.536,1.536,0.0,0,2017-10-01T00:00:00Z
+Storage,S4 LRS,eastus,S4 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S40 LRS,eastus,S40 LRS Disk,1/Month,USD,77.824,77.824,0.0,0,2017-10-01T00:00:00Z
+Storage,S40 LRS,eastus,S40 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S50 LRS,eastus,S50 LRS Disk,1/Month,USD,143.36,143.36,0.0,0,2017-10-01T00:00:00Z
+Storage,S50 LRS,eastus,S50 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S6 LRS,eastus,S6 LRS Disk,1/Month,USD,3.008,3.008,0.0,0,2017-10-01T00:00:00Z
+Storage,S6 LRS,eastus,S6 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S60 LRS,eastus,S60 LRS Disk,1/Month,USD,262.14,262.14,0.0,0,2019-05-01T00:00:00Z
+Storage,S60 LRS,eastus,S60 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S70 LRS,eastus,S70 LRS Disk,1/Month,USD,491.52,491.52,0.0,0,2019-05-01T00:00:00Z
+Storage,S70 LRS,eastus,S70 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,S80 LRS,eastus,S80 LRS Disk,1/Month,USD,953.55,953.55,0.0,0,2019-05-01T00:00:00Z
+Storage,S80 LRS,eastus,S80 LRS Disk Operations,10K,USD,0.0005,0.0005,0.0,0,2017-10-01T00:00:00Z
+Storage,SSD,eastus,SSD LRS Overflow Snapshot Usage,1 GiB/Hour,USD,0.000137,0.000137,0.0,0,2025-07-01T00:00:00Z
+Storage,SSD,eastus,SSD LRS Provisioned IOPS,1/Hour,USD,3.7e-05,3.7e-05,0.0,0,2025-11-01T00:00:00Z
+Storage,SSD,eastus,SSD LRS Provisioned IOPS Free,1/Hour,USD,0.0,0.0,,0,2026-01-01T00:00:00Z
+Storage,SSD,eastus,SSD LRS Provisioned Storage,1 GiB/Hour,USD,0.000137,0.000137,0.0,0,2025-07-01T00:00:00Z
+Storage,SSD,eastus,SSD LRS Provisioned Throughput MiBPS,1/Hour,USD,5.4e-05,5.4e-05,0.0,0,2025-11-01T00:00:00Z
+Storage,SSD,eastus,SSD LRS Provisioned Throughput MiBPS Free,1/Hour,USD,0.0,0.0,,0,2026-01-01T00:00:00Z
+Storage,SSD,eastus,SSD LRS Soft-Deleted Usage,1 GiB/Hour,USD,0.000137,0.000137,0.0,0,2025-07-01T00:00:00Z
+Storage,SSD,eastus,SSD ZRS Overflow Snapshot Usage,1 GiB/Hour,USD,0.000171,0.000171,0.0,0,2025-07-01T00:00:00Z
+Storage,SSD,eastus,SSD ZRS Provisioned IOPS,1/Hour,USD,4.6e-05,4.6e-05,0.0,0,2025-11-01T00:00:00Z
+Storage,SSD,eastus,SSD ZRS Provisioned IOPS Free,1/Hour,USD,0.0,0.0,,0,2026-01-01T00:00:00Z
+Storage,SSD,eastus,SSD ZRS Provisioned Storage,1 GiB/Hour,USD,0.000171,0.000171,0.0,0,2025-07-01T00:00:00Z
+Storage,SSD,eastus,SSD ZRS Provisioned Throughput MiBPS,1/Hour,USD,6.8e-05,6.8e-05,0.0,0,2025-11-01T00:00:00Z
+Storage,SSD,eastus,SSD ZRS Provisioned Throughput MiBPS Free,1/Hour,USD,0.0,0.0,,0,2026-01-01T00:00:00Z
+Storage,SSD,eastus,SSD ZRS Soft-Deleted Usage,1 GiB/Hour,USD,0.000171,0.000171,0.0,0,2025-07-01T00:00:00Z
+Storage,SSH File Transfer Protocol,eastus,SSH File Transfer Protocol GRS Hour Enabled,1,USD,0.3,0.3,0.0,0,2023-01-01T00:00:00Z
+Storage,SSH File Transfer Protocol,eastus,SSH File Transfer Protocol GZRS Hour Enabled,1,USD,0.3,0.3,0.0,0,2023-01-01T00:00:00Z
+Storage,SSH File Transfer Protocol,eastus,SSH File Transfer Protocol LRS Hour Enabled,1,USD,0.3,0.3,0.0,0,2023-01-01T00:00:00Z
+Storage,SSH File Transfer Protocol,eastus,SSH File Transfer Protocol RA-GRS Hour Enabled,1,USD,0.3,0.3,0.0,0,2023-01-01T00:00:00Z
+Storage,SSH File Transfer Protocol,eastus,SSH File Transfer Protocol RA-GZRS Hour Enabled,1,USD,0.3,0.3,0.0,0,2023-01-01T00:00:00Z
+Storage,SSH File Transfer Protocol,eastus,SSH File Transfer Protocol ZRS Hour Enabled,1,USD,0.3,0.3,0.0,0,2023-01-01T00:00:00Z
+Storage,Smart Tier,eastus,Smart Tier GZRS Monitoring Operations,10K,USD,0.04,0.04,0.0,0,2026-05-01T00:00:00Z
+Storage,Smart Tier,eastus,Smart Tier RA-GZRS Monitoring Operations,10K,USD,0.04,0.04,0.0,0,2026-05-01T00:00:00Z
+Storage,Smart Tier,eastus,Smart Tier ZRS Monitoring Operations,10K,USD,0.04,0.04,0.0,0,2026-05-01T00:00:00Z
+Storage,Snapshots LRS,eastus,LRS Snapshots,1 GB/Month,USD,0.05,0.05,0.0,0,2018-02-01T00:00:00Z
+Storage,Snapshots LRS,eastus,LRS Snapshots,1 GB/Month,USD,0.132,0.132,0.0,0,2015-10-28T00:00:00Z
+Storage,Snapshots LRS,eastus,LRS Snapshots,1 GB/Month,USD,0.132,0.132,0.0,0,2019-09-30T00:00:00Z
+Storage,Snapshots LRS,eastus,Snapshots LRS Snapshots,1 GB/Month,USD,0.132,0.132,0.0,0,2018-11-01T00:00:00Z
+Storage,Snapshots ZRS,eastus,Snapshots ZRS Snapshots,1 GB/Month,USD,0.198,0.198,0.0,0,2023-05-01T00:00:00Z
+Storage,Snapshots ZRS,eastus,ZRS Snapshots,1 GB/Month,USD,0.198,0.198,0.0,0,2022-03-01T00:00:00Z
+Storage,Snapshots ZRS,eastus,ZRS Snapshots,1 GB/Month,USD,0.198,0.198,0.0,0,2021-10-01T00:00:00Z
+Storage,Snapshots ZRS,eastus,ZRS Snapshots,1 GB/Month,USD,0.05,0.05,0.0,0,2018-04-27T00:00:00Z
+Storage,Standard,eastus,Standard 1 Million Blob Rules,100/Month,USD,1.0,1.0,0.0,0,2019-03-31T00:00:00Z
+Storage,Standard,eastus,Standard Device Handling,1,USD,80.0,80.0,0.0,0,2014-10-01T00:00:00Z
+Storage,Standard,eastus,Standard Device Return Shipping/Package,1,USD,80.0,80.0,0.0,0,2017-03-01T00:00:00Z
+Storage,Standard,eastus,Standard Lifecycle Transactions,10K,USD,0.1,0.1,0.0,0,2019-03-31T00:00:00Z
+Storage,Standard,eastus,Standard Objects Analyzed,1M,USD,0.18,0.18,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard,eastus,Standard Objects Analyzed,1M,USD,0.16,0.16,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard,eastus,Standard Objects Analyzed,1M,USD,0.12,0.12,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard,eastus,Standard Server,1/Month,USD,5.0,5.0,0.0,0,2018-09-01T00:00:00Z
+Storage,Standard,eastus,Standard Server - Free,1/Month,USD,0.0,0.0,,0,2018-07-19T00:00:00Z
+Storage,Standard,eastus,Standard Storage Account,1,USD,1.0,1.0,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard,eastus,Standard Storage Account,1,USD,0.6,0.6,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard,eastus,Standard Storage Account,1,USD,0.2,0.2,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GRS,eastus,All Other Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,Class 2 Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,Class 2 Operations,10K,USD,0.004,0.004,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2016-08-01T00:00:00Z
+Storage,Standard GRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,Disk Data Stored,1 GB/Month,USD,0.18,0.18,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Data Stored,1 GB/Month,USD,0.18,0.18,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Delete Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Delete Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Read Additional IO,10K,USD,0.0,0.0,,0,2025-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Read Additional IO,10K,USD,0.00051,0.00051,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Read Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Read Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Write Additional IO,10K,USD,0.0,0.0,,0,2025-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Disk Write Additional IO,10K,USD,0.01398,0.01398,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Batch Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,GRS Class 1 Additional IO,10K,USD,0.0,0.0,,0,2018-01-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Class 1 Additional IO,10K,USD,0.008,0.008,0.0,0,2018-01-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Class 1 Operations,10K,USD,0.008,0.008,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Class 1 Operations,10K,USD,0.00036,0.00036,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Class 2 Additional IO,10K,USD,0.008,0.008,0.0,0,2018-01-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Class 2 Additional IO,10K,USD,0.0,0.0,,0,2018-01-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.06,0.06,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.048,0.048,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.0472,0.0472,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.0464,0.0464,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.0456,0.0456,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.0448,0.0448,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.0598,0.0598,0.0,0,2022-09-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.06,0.06,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.06,0.06,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.06,0.06,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Data Stored,1 GB/Month,USD,0.1,0.1,0.0,0,2015-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Disk Write Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Disk Write Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS List and Create Container Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,GRS Write Additional IO,10K,USD,0.00466,0.00466,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Write Additional IO,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,GRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,GRS Write Operations,10K,USD,0.03,0.03,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,GRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,GRS Write Operations,10K,USD,0.03,0.03,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard GRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,List Operations,10K,USD,0.015,0.015,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard GRS,eastus,Protocol Operations,10K,USD,0.0015,0.0015,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard GRS,eastus,Read Additional IO,10K,USD,0.00017,0.00017,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Read Additional IO,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,Read Operations,10K,USD,0.0015,0.0015,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard GRS,eastus,Read Operations,10K,USD,0.0015,0.0015,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard GRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GRS,eastus,Scan Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2016-08-01T00:00:00Z
+Storage,Standard GZRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard GZRS,eastus,Disk Data Stored,1 GB/Month,USD,0.30375,0.30375,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard GZRS,eastus,Disk Delete Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GZRS,eastus,Disk Read Additional IO,10K,USD,0.00051,0.00051,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard GZRS,eastus,Disk Read Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard GZRS,eastus,Disk Write Additional IO,10K,USD,0.016416,0.016416,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Batch Write Operations,10K,USD,0.00036,0.00036,0.0,0,2024-12-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Data Stored,1 GB/Month,USD,0.10125,0.10125,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Data Stored,1 GB/Month,USD,0.1012,0.1012,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Data Stored,1 GB/Month,USD,0.135,0.135,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Data Stored,1 GB/Month,USD,0.101,0.101,0.0,0,2023-03-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS List Operations,10K,USD,0.03,0.03,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Protocol Operations,10K,USD,0.003,0.003,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Read Operations,10K,USD,0.0015,0.0015,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Write Additional IO,10K,USD,0.005472,0.005472,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2024-12-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Write Operations,10K,USD,0.03375,0.03375,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,GZRS Write Operations,10K,USD,0.03525,0.03525,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GZRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GZRS,eastus,Scan Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard GZRS,eastus,ZRS Class 2 Operations,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,ZRS Read Additional IO,10K,USD,0.00017,0.00017,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard GZRS,eastus,ZRS Read Operations,10K,USD,0.0015,0.0015,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard LRS,eastus,All Other Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Batch Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Class 2 Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Class 2 Operations,10K,USD,0.004,0.004,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2016-08-01T00:00:00Z
+Storage,Standard LRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Disk Data Stored,1 GB/Month,USD,0.135,0.135,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Data Stored,1 GB/Month,USD,0.135,0.135,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Delete Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Delete Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Read Additional IO,10K,USD,0.00051,0.00051,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Read Additional IO,10K,USD,0.0,0.0,,0,2025-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Read Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Read Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Write Additional IO,10K,USD,0.00699,0.00699,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Write Additional IO,10K,USD,0.0,0.0,,0,2025-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Write Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard LRS,eastus,Disk Write Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Class 1 Additional IO,10K,USD,0.0,0.0,,0,2018-01-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Class 1 Additional IO,10K,USD,0.004,0.004,0.0,0,2018-01-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Class 1 Operations,10K,USD,0.004,0.004,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Class 1 Operations,10K,USD,0.00036,0.00036,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Class 2 Additional IO,10K,USD,0.004,0.004,0.0,0,2018-01-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Class 2 Additional IO,10K,USD,0.0,0.0,,0,2018-01-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.045,0.045,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.045,0.045,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.045,0.045,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.024,0.024,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.0236,0.0236,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.0232,0.0232,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.0228,0.0228,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.0224,0.0224,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.045,0.045,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.045,0.045,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Data Stored,1 GB/Month,USD,0.06,0.06,0.0,0,2017-09-19T00:00:00Z
+Storage,Standard LRS,eastus,LRS List and Create Container Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,LRS Write Additional IO,10K,USD,0.00233,0.00233,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Write Additional IO,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,LRS Write Operations,10K,USD,0.015,0.015,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,LRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,LRS Write Operations,10K,USD,0.015,0.015,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard LRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,List Operations,10K,USD,0.015,0.015,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard LRS,eastus,Protocol Operations,10K,USD,0.0015,0.0015,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard LRS,eastus,Read Additional IO,10K,USD,0.00017,0.00017,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Read Additional IO,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Read Operations,10K,USD,0.0015,0.0015,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard LRS,eastus,Read Operations,10K,USD,0.0015,0.0015,0.0,0,2016-08-01T00:00:00Z
+Storage,Standard LRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Scan Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard LRS,eastus,Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,All Other Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Class 2 Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Class 2 Operations,10K,USD,0.004,0.004,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Data Stored,1 GB/Month,USD,0.225,0.225,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Data Stored,1 GB/Month,USD,0.225,0.225,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Delete Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Delete Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Read Additional IO,10K,USD,0.0,0.0,,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Read Additional IO,10K,USD,0.00051,0.00051,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Read Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Read Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Write Additional IO,10K,USD,0.01398,0.01398,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Disk Write Additional IO,10K,USD,0.0,0.0,,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Batch Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Class 1 Additional IO,10K,USD,0.0,0.0,,0,2018-01-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Class 1 Additional IO,10K,USD,0.008,0.008,0.0,0,2018-01-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Class 1 Operations,10K,USD,0.008,0.008,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Class 1 Operations,10K,USD,0.00036,0.00036,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Class 2 Additional IO,10K,USD,0.008,0.008,0.0,0,2018-01-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Class 2 Additional IO,10K,USD,0.0,0.0,,0,2018-01-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Disk Write Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Disk Write Operations,10K,USD,0.00108,0.00108,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Write Additional IO,10K,USD,0.00466,0.00466,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Write Additional IO,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Write Operations,10K,USD,0.03,0.03,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,GRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.061,0.061,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.0599,0.0599,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.0589,0.0589,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.0579,0.0579,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.0569,0.0569,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.0748,0.0748,0.0,0,2023-03-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.075,0.075,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.075,0.075,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.075,0.075,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Data Stored,1 GB/Month,USD,0.075,0.075,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS List and Create Container Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,RA-GRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Read Additional IO,10K,USD,0.00017,0.00017,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Read Additional IO,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Read Operations,10K,USD,0.0015,0.0015,0.0,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GRS,eastus,Scan Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Disk Data Stored,1 GB/Month,USD,0.379686,0.379686,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Disk Delete Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Disk Read Additional IO,10K,USD,0.00051,0.00051,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Disk Read Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Disk Write Additional IO,10K,USD,0.016416,0.016416,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,GZRS Write Additional IO,10K,USD,0.005472,0.005472,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,GZRS Write Operations,10K,USD,0.03525,0.03525,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GZRS,eastus,RA-GZRS Data Stored,1 GB/Month,USD,0.1265,0.1265,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,RA-GZRS Data Stored,1 GB/Month,USD,0.127,0.127,0.0,0,2023-03-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,RA-GZRS Data Stored,1 GB/Month,USD,0.126562,0.126562,0.0,0,2020-07-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GZRS,eastus,Scan Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard RA-GZRS,eastus,ZRS Class 2 Operations,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,ZRS Read Additional IO,10K,USD,0.00017,0.00017,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard RA-GZRS,eastus,ZRS Read Operations,10K,USD,0.0015,0.0015,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,All Other Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,Batch Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,Delete Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,Delete Operations,10K,USD,0.0,0.0,,0,2017-11-01T00:00:00Z
+Storage,Standard ZRS,eastus,Disk Data Stored,1 GB/Month,USD,0.16875,0.16875,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard ZRS,eastus,Disk Delete Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard ZRS,eastus,Disk Read Additional IO,10K,USD,0.00051,0.00051,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard ZRS,eastus,Disk Read Operations,10K,USD,0.0015,0.0015,0.0,0,2025-10-01T00:00:00Z
+Storage,Standard ZRS,eastus,Disk Write Additional IO,10K,USD,0.008736,0.008736,0.0,0,2025-11-01T00:00:00Z
+Storage,Standard ZRS,eastus,List Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,Read Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,Scan Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Class 1 Additional IO,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Class 1 Operations,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Class 2 Additional IO,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Class 2 Operations,10K,USD,0.004,0.004,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.075,0.075,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.0562,0.0562,0.0,0,2019-06-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.03,0.03,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.0295,0.0295,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.029,0.029,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.0285,0.0285,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.028,0.028,0.0,0,2024-05-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.05625,0.05625,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Data Stored,1 GB/Month,USD,0.0562,0.0562,0.0,0,2023-03-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS List Operations,10K,USD,0.015,0.015,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS List and Create Container Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Protocol Operations,10K,USD,0.0015,0.0015,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Read Additional IO,10K,USD,0.00017,0.00017,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Read Operations,10K,USD,0.0015,0.0015,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Read Operations,10K,USD,0.0015,0.0015,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Write Additional IO,10K,USD,0.002912,0.002912,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Write Operations,10K,USD,0.00036,0.00036,0.0,0,2016-04-11T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Write Operations,10K,USD,0.01875,0.01875,0.0,0,2018-07-01T00:00:00Z
+Storage,Standard ZRS,eastus,ZRS Write Operations,10K,USD,0.01875,0.01875,0.0,0,2018-07-01T00:00:00Z
+Storage,Ultra LRS,eastus,Ultra LRS Provisioned Capacity,1 GiB/Hour,USD,0.000164,0.000164,0.0,0,2019-10-30T00:00:00Z
+Storage,Ultra LRS,eastus,Ultra LRS Provisioned IOPS,1/Hour,USD,6.8e-05,6.8e-05,0.0,0,2019-10-30T00:00:00Z
+Storage,Ultra LRS,eastus,Ultra LRS Provisioned Throughput (MBps),1/Hour,USD,0.000479,0.000479,0.0,0,2021-05-01T00:00:00Z
+Storage,Ultra LRS,eastus,Ultra LRS Reservation per vCPU Provisioned,1/Hour,USD,0.006,0.006,0.0,0,2019-10-30T00:00:00Z
+Virtual Machines,Standard_B2ms,eastus,B2ms,1 Hour,USD,0.0832,0.0832,0.0,0,2025-10-01T00:00:00Z
+Virtual Machines,Standard_B2ms,eastus,B2ms,1 Hour,USD,0.0912,0.0912,0.0,0,2025-10-01T00:00:00Z
+Virtual Machines,Standard_D2s_v3,eastus,D2s v3,1 Hour,USD,0.188,0.188,0.0,0,2017-12-15T00:00:00Z
+Virtual Machines,Standard_D4s_v3,eastus,D4s v3,1 Hour,USD,0.192,0.192,0.0,0,2017-12-15T00:00:00Z
+Virtual Machines,Standard_D4s_v3,eastus,D4s v3,1 Hour,USD,0.376,0.376,0.0,0,2017-12-15T00:00:00Z
+Virtual Machines,Standard_D2s_v3,westeurope,D2s v3,1 Hour,USD,0.212,0.25016,18.0,1,2017-06-17T00:00:00Z
+Virtual Machines,Standard_D2s_v3,westeurope,D2s v3,1 Hour,USD,0.12,0.12,0.0,0,2017-06-17T00:00:00Z
+Virtual Machines,Standard_D4s_v3,westeurope,D4s v3,1 Hour,USD,0.424,0.424,0.0,0,2017-06-17T00:00:00Z
+Virtual Machines,Standard_D4s_v3,westeurope,D4s v3,1 Hour,USD,0.24,0.24,0.0,0,2017-06-17T00:00:00Z
