@@ -4,11 +4,16 @@ A self-contained Python framework that **scrapes, validates and monitors Azure
 pricing**, stores every snapshot in SQLite, and proves in SQL when a price
 duplicates, disappears or moves.
 
-This repository is a **working demo built in under an hour**, not a finished
-product. Everything in it runs: the numbers in the report came from the live
-public Azure pricing API, and the test suite executes end to end. The section
+Everything here runs: the numbers in the report came from the live public Azure
+pricing API, and the **53 tests pass end to end** with no browser, no driver
+binary and no Azure login. Clone it and run `pytest`.
+
+What it has is a declared boundary rather than a finished one.
 [What is complete vs. what connects in the project](#what-is-complete-vs-what-connects-in-the-project)
-is deliberately blunt about the boundary.
+says which half is which: the API client, the snapshot history, the six SQL
+rules and the reporting are done; the Selenium driver is written but the demo
+runs it against a fake so anyone can reproduce it, and scheduling and alerting
+are not built at all.
 
 **Live sample report:** https://carlosisaacfaura.github.io/azure-price-guard/
 
